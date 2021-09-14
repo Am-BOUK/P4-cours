@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Amal\Google Drive\OpenClassrooms\workplace\P4\.metadata\.plugins\org.eclipse.jdt.core
+2723814164.index
+3576778978.index
+844241362.index
+2743083397.index
+1384855180.index
+2175382477.index
+485573650.index
+321251726.index
+3738175163.index
